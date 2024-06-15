@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class relacaoBancaria {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -15,19 +15,19 @@ public class App {
                 case 1:
                     double attSaldo = scanner.nextDouble();
                     saldo = attSaldo;
-                    System.out.printf("Saldo atual: %.1d", saldo);
+                    System.out.printf("Saldo atual: %.1f", saldo);
                     break;
                 case 2:
                     double valorSacar = scanner.nextDouble();
                     if (valorSacar < saldo){
                       saldo = (saldo - valorSacar);
-                      System.out.printf("Saldo atual: %.1d", saldo);
+                      System.out.printf("Saldo atual: %.1f", saldo);
                     }else{
                       System.out.print("Saldo insuficiente.");
                     }
                     break;
                 case 3:
-                    System.out.printf("Saldo atual: %.1d", saldo);
+                    System.out.printf("Saldo atual: %.1f", saldo);
                     break;
                 case 0:
                     System.out.print("Programa encerrado.");
