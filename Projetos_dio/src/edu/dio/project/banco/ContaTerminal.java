@@ -1,3 +1,4 @@
+package edu.project.banco;
 
 import java.util.Scanner;
 public class ContaTerminal {
