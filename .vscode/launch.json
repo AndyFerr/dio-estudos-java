@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "Enums.SistemaIbge",
+            "projectName": "dio-estudos-java_3b0ef604"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "edu.dio.project.processoseletivo.Contador",
+            "projectName": "dio-estudos-java_3b0ef604"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "Contador",
