@@ -1,8 +1,10 @@
-public class ReprodutorMusical {
-    
-    private String estado;
 
-    private String [] musicas = {
+import java.util.Scanner;
+public interface ReprodutorMusical {
+
+    Scanner numeroMusica = new Scanner(System.in);
+
+    String [] musicas = {
         "1 - SKINNY", 
         "2 - LUNCH", 
         "3 - CHIHIRRO", 
@@ -14,10 +16,15 @@ public class ReprodutorMusical {
         "9 - BITTERSUITE",
         "10 - BLUE"
     };
-    
-    void tocar(){
-        for ( String music:musicas){
-            System.out.println(music + "/n");
-        }
+
+    default void tocar(){
+        System.out.println("Tocando");
     }
+
+    default void pausar(){
+        System.out.println("Pausado");
+    }
+
+    public void selecionarMusica();
+
 }

@@ -1,4 +1,17 @@
 public class User {
-    Iphone andrey = new Iphone();
-    
+    public static void main(String[] args) {
+        Iphone andy = new Iphone();
+
+        andy.tocar();
+        andy.selecionarMusica();
+        andy.pausar();
+
+        andy.atender();
+        andy.ligar();
+        andy.iniciarCorreioVoz();
+
+        andy.exibirPag();
+        andy.atualzarPag();
+        andy.adicionarNovaAba();
+    }
 }

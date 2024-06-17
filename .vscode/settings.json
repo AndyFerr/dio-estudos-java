@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "Projetos_dio/src/edu/dio/project/processoseletivo",
         "Fundamentos-Java/src/edu/dio/examples",
         "Fundamentos-Java/src",
-        "Projetos_dio/src/edu/dio/project/processoseletivo"
+        "Projetos_dio/src/edu/dio/project/Iphone"
     ]
 }

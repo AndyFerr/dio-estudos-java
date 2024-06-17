@@ -1,13 +1,15 @@
 classDiagram
     class ReprodutorMusical {
-        -String estado
+        -String [] musicas
+        +Scanner numeroMusica
 
         +tocar()
         +pausar()
-        +selecionarMusica(int musica)
+        +selecionarMusica()
     }
 
     class AparelhoTelefonico {
+        +Scanner numeroTelefone
         +ligar(int numero)
         +atender()
         +iniciarCorreioVoz()
@@ -15,12 +17,17 @@ classDiagram
     }
 
     class NavegadorInternet {
-        +exibirPagina(String url)
+        +Scanner link
+        +exibirPagina()
         +adicionarNovaAba()
-        atualizarPagina()
+        +atualizarPagina()
     }
 
     class iPhone {
+        +selecionarMusica()
+        +ligar()
+        +atender()
+        +iniciarCorreioVoz()
     }
 
     iPhone --> ReprodutorMusical

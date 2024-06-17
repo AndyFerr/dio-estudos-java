@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "User",
+            "projectName": "dio-estudos-java_3b0ef604"
+        },
+        {
+            "type": "java",
+            "name": "Iphone",
+            "request": "launch",
+            "mainClass": "Iphone",
+            "projectName": "dio-estudos-java_3b0ef604"
+        },
+        {
+            "type": "java",
             "name": "Fabrica",
             "request": "launch",
             "mainClass": "estudoInterface.Fabrica",
