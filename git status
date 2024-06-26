@@ -1,0 +1,95 @@
+[33mcommit 831c25bd82b655f81435a7d916cd43ec890297d2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Tue Jun 25 23:50:27 2024 -0300
+
+    streams
+
+[33mcommit 4f6568cd5672a82d509ecab8dcb10bee2dc360cd[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Mon Jun 17 15:30:58 2024 -0300
+
+    projeto iphone completo
+
+[33mcommit 318e5819b14519c8597d9f97fa8307ca253e0616[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sun Jun 16 22:36:00 2024 -0300
+
+    projeto iphone incompleto
+
+[33mcommit 3593bd9ab052be3e5ca788613e2a6fb9e6f8eeaf[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sun Jun 16 21:27:18 2024 -0300
+
+    teste readme
+
+[33mcommit dc8a30bb9d9d4998a2b76aec1f90101ed59643c9[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sun Jun 16 21:20:01 2024 -0300
+
+    diagrama iphone
+
+[33mcommit 0f277ea61ec591fb65793a109a5c1cd8245d5f7d[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sun Jun 16 19:12:38 2024 -0300
+
+    trabalhando com interfaces
+
+[33mcommit 2ef40f03cc34f8fb682a8c42872c31ec89f6fcbc[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sun Jun 16 18:25:28 2024 -0300
+
+    enums
+
+[33mcommit 2f0c6a0a56acdec65d45b69ea77c75e903f686ff[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sat Jun 15 10:06:47 2024 -0300
+
+    organizacao em packages
+
+[33mcommit c6804bea3f5a30434b658050d0a75c8ab4612a23[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Fri Jun 14 22:39:59 2024 -0300
+
+    desafio contador
+
+[33mcommit 74a6319b30a54692e3be016ad287f55757e71f3e[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Thu Jun 13 22:24:29 2024 -0300
+
+    teste conta desafio
+
+[33mcommit 2d07006a330441519ab502e28e9bb3a8f8134677[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Thu Jun 13 21:11:03 2024 -0300
+
+    projeto 2 finalizado
+
+[33mcommit b4572b11afcb709d12309bf2ade75a788728cb89[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Thu Jun 13 16:09:32 2024 -0300
+
+    inicio projeto de contador
+
+[33mcommit 8f6054ac95b2ff9c671d1c6489c38fb35a7b3699[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Mon Jun 10 21:38:13 2024 -0300
+
+    projeto ContaBanco
+
+[33mcommit 23c01a82862f8a9ccf024bf4e538a8580ac16cee[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Sun Jun 9 22:02:43 2024 -0300
+
+    até a aula de java doc
+
+[33mcommit 423378c6390f46fa72ac8c7c6389619069564452[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Fri Jun 7 22:12:44 2024 -0300
+
+    aula sobre fundamentos, classes e variáveis
+
+[33mcommit b82ebcceae0e6cb47c08a1c5cf83b309ce37241f[m
+Author: AndyFerr <anfs@ic.ufal.br>
+Date:   Thu Jun 6 23:08:05 2024 -0300
+
+    Initial commit
